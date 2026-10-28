@@ -1,9 +1,11 @@
 # Beliefs and Heterogeneity: Credibility under Large Shocks
 **Author:** Emiliano Quinteros Handal
 
-**Advisor:** Luis Felipe Céspedes
+Master's Thesis in Economics, University of Chile.
 
-**Last updated: 07-10-2026**
+**Advisor:** Luis Felipe Céspedes, Central Bank of Chile and University of Chile.
+ 
+**Defended:** 2026-10-07 | **Last updated:** 2026-10-07
 
 **Abstract.** Inflation can persist after a large shock for reasons that go beyond the shock
 itself. One such source is the monetary policy reaction, when a central bank allows its short-
