@@ -18,6 +18,10 @@ Inflation can persist after a large shock for reasons that go beyond the shock i
 
 **Keywords:** Inflation Persistence, Large Shocks, Monetary Policy Credibility, Sectoral Heterogeneity
 
+## Replication code
+
+Replication code is available from the author upon request at [quinteroshandal.e@gmail.com](mailto:quinteroshandal.e@gmail.com).
+
 ## How to cite
 
 ```bibtex
