@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you refer to this work, please cite it as below."
+title: "Beliefs and Heterogeneity: Credibility under Large Shocks"
+authors:
+  - family-names: "Quinteros Handal"
+    given-names: "Emiliano R."
+date-released: 2026-07-10
+url: "https://github.com/equinterosh/Beliefs-and-Heterogeneity-Credibility-under-Large-Shocks"
+keywords:
+  - "inflation persistence"
+  - "large shocks"
+  - "monetary policy credibility"
+  - "sectoral heterogeneity"
+preferred-citation:
+  type: thesis
+  thesis-type: "Master's thesis"
+  title: "Beliefs and Heterogeneity: Credibility under Large Shocks"
+  authors:
+    - family-names: "Quinteros Handal"
+      given-names: "Emiliano R."
+  institution:
+    name: "Universidad de Chile"
+  year: 2026
+  url: "https://github.com/equinterosh/Beliefs-and-Heterogeneity-Credibility-under-Large-Shocks"

@@ -1,30 +1,25 @@
 # Beliefs and Heterogeneity: Credibility under Large Shocks
-**Author:** Emiliano R. Quinteros Handal
 
-Master's Thesis in Economics, University of Chile.
+**Emiliano R. Quinteros Handal**
 
-**Advisor:** Luis Felipe Céspedes, Central Bank of Chile and University of Chile.
- 
-**Defended:** 2026-10-07 | **Last updated:** 2026-10-07
+Master's Thesis in Economics, Universidad de Chile
 
-**Abstract.** Inflation can persist after a large shock for reasons that go beyond the shock
-itself. One such source is the monetary policy reaction, when a central bank allows its short 
-run inflation target to shift with the size of the disturbance. In a two-sector model, that
-contingent shift that extends the relative convergence horizon improves the output–inflation
-trade-off, reducing output losses while tolerating a more sustained inflation path. The
-channel works only through monetary policy credibility, since the target movement reaches
-the economy through private expectations of future policy path. When the nominal anchor
-is credible, extending the policy horizon increases short-run inflation and lowers output
-losses together, but when it is not, the same extension cumulates inflation but deepens
-losses. The last-mile inflation problem thus reflects, in part, a belief-mediated displacement
-of the nominal anchor.
+**Advisor:** Luis Felipe Céspedes, Universidad de Chile
 
-JEL Classification: E31; E32; E52
+**Defended:** 2026-07-10
 
-Keywords: Inflation Persistence; Large Shocks; Monetary Policy Credibility; Sectoral Heterogeneity
+📄 [Read the thesis (PDF)](thesis_equinterosh.pdf)
+
+## Abstract
+
+Inflation can persist after a large shock for reasons that go beyond the shock itself. One such source is the monetary policy reaction, when a central bank allows its short-run inflation target to shift with the size of the disturbance. In a two-sector model, that contingent shift that extends the relative convergence horizon improves the output–inflation trade-off, reducing output losses while tolerating a more sustained inflation path. The channel works only through monetary policy credibility, since the target movement reaches the economy through private expectations of future policy path. When the nominal anchor is credible, extending the policy horizon increases short-run inflation and lowers output losses together, but when it is not, the same extension cumulates inflation but deepens losses. The last-mile inflation problem thus reflects, in part, a belief-mediated displacement of the nominal anchor.
+
+**JEL Classification:** E31, E32, E52
+
+**Keywords:** Inflation Persistence, Large Shocks, Monetary Policy Credibility, Sectoral Heterogeneity
 
 ## How to cite
- 
+
 ```bibtex
 @mastersthesis{QuinterosHandal2026,
   author = {Quinteros Handal, Emiliano R.},
@@ -35,5 +30,9 @@ Keywords: Inflation Persistence; Large Shocks; Monetary Policy Credibility; Sect
   url    = {https://github.com/equinterosh/Beliefs-and-Heterogeneity-Credibility-under-Large-Shocks}
 }
 ```
- 
+
 Citation metadata is also provided in [`CITATION.cff`](CITATION.cff). Use the **Cite this repository** button in the sidebar for APA or BibTeX formats.
+
+---
+
+© 2026 Emiliano R. Quinteros Handal. All rights reserved.
