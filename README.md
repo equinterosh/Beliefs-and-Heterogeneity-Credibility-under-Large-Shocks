@@ -8,7 +8,7 @@ Master's Thesis in Economics, University of Chile.
 **Defended:** 2026-10-07 | **Last updated:** 2026-10-07
 
 **Abstract.** Inflation can persist after a large shock for reasons that go beyond the shock
-itself. One such source is the monetary policy reaction, when a central bank allows its short-
+itself. One such source is the monetary policy reaction, when a central bank allows its short 
 run inflation target to shift with the size of the disturbance. In a two-sector model, that
 contingent shift that extends the relative convergence horizon improves the output–inflation
 trade-off, reducing output losses while tolerating a more sustained inflation path. The
