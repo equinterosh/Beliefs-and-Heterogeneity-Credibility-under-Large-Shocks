@@ -1,5 +1,5 @@
 # Beliefs and Heterogeneity: Credibility under Large Shocks
-**Author:** Emiliano Quinteros Handal
+**Author:** Emiliano R. Quinteros Handal
 
 Master's Thesis in Economics, University of Chile.
 
@@ -27,7 +27,7 @@ Keywords: Inflation Persistence; Large Shocks; Monetary Policy Credibility; Sect
  
 ```bibtex
 @mastersthesis{QuinterosHandal2026,
-  author = {Quinteros Handal, Emiliano},
+  author = {Quinteros Handal, Emiliano R.},
   title  = {Beliefs and Heterogeneity: Credibility under Large Shocks},
   school = {Universidad de Chile},
   type   = {Master's thesis},
