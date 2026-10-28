@@ -8,7 +8,7 @@ Master's Thesis in Economics, Universidad de Chile
 
 **Defended:** 2026-07-10
 
-📄 [Read the thesis (PDF)](thesis_equinterosh.pdf)
+📄 [Read the thesis (PDF)](QuinterosHandal_2026_Beliefs_and_Heterogeneity.pdf)
 
 ## Abstract
 
