@@ -20,3 +20,18 @@ of the nominal anchor.
 JEL Classification: E31; E32; E52
 
 Keywords: Inflation Persistence; Large Shocks; Monetary Policy Credibility; Sectoral Heterogeneity
+
+## How to cite
+ 
+```bibtex
+@mastersthesis{QuinterosHandal2026,
+  author = {Quinteros Handal, Emiliano},
+  title  = {Beliefs and Heterogeneity: Credibility under Large Shocks},
+  school = {Universidad de Chile},
+  type   = {Master's thesis},
+  year   = {2026},
+  url    = {https://github.com/equinterosh/Beliefs-and-Heterogeneity-Credibility-under-Large-Shocks}
+}
+```
+ 
+Citation metadata is also provided in [`CITATION.cff`](CITATION.cff). Use the **Cite this repository** button in the sidebar for APA or BibTeX formats.
